@@ -1,0 +1,71 @@
+t_id,t_date,task,t_status,day
+1,2026-03-22,Wake Up Early,0,Sunday
+2,2026-03-22,Morning Workout,0,Sunday
+3,2026-03-22,Deep Work Session,0,Sunday
+4,2026-03-22,Reading,0,Sunday
+5,2026-03-22,Project Work,0,Sunday
+6,2026-03-22,Drink 3L Water,0,Sunday
+7,2026-03-22,No Social Media,0,Sunday
+8,2026-03-22,Sleep Before 12,0,Sunday
+9,2026-03-22,Family Time,1,Sunday
+10,2026-03-22,Study Atleast 2 Hours,0,Sunday
+11,2026-03-23,Wake Up Early,1,Monday
+12,2026-03-23,Morning Workout,1,Monday
+13,2026-03-23,Deep Work Session,1,Monday
+14,2026-03-23,Reading,1,Monday
+15,2026-03-23,Project Work,1,Monday
+16,2026-03-23,Drink 3L Water,1,Monday
+17,2026-03-23,No Social Media,0,Monday
+18,2026-03-23,Sleep Before 12,0,Monday
+19,2026-03-23,Family Time,1,Monday
+20,2026-03-23,Study Atleast 2 Hours,0,Monday
+21,2026-03-24,Wake Up Early,0,Tuesday
+22,2026-03-24,Morning Workout,0,Tuesday
+23,2026-03-24,Deep Work Session,1,Tuesday
+24,2026-03-24,Reading,1,Tuesday
+25,2026-03-24,Project Work,0,Tuesday
+26,2026-03-24,Drink 3L Water,1,Tuesday
+27,2026-03-24,No Social Media,1,Tuesday
+28,2026-03-24,Sleep Before 12,0,Tuesday
+29,2026-03-24,Family Time,1,Tuesday
+30,2026-03-24,Study Atleast 2 Hours,0,Tuesday
+31,2026-03-25,Wake Up Early,1,Wednesday
+32,2026-03-25,Morning Workout,0,Wednesday
+33,2026-03-25,Deep Work Session,0,Wednesday
+34,2026-03-25,Reading,0,Wednesday
+35,2026-03-25,Project Work,0,Wednesday
+36,2026-03-25,Drink 3L Water,0,Wednesday
+37,2026-03-25,No Social Media,0,Wednesday
+38,2026-03-25,Sleep Before 12,1,Wednesday
+39,2026-03-25,Family Time,0,Wednesday
+40,2026-03-25,Study Atleast 2 Hours,1,Wednesday
+41,2026-03-26,Wake Up Early,1,Thursday
+42,2026-03-26,Morning Workout,1,Thursday
+43,2026-03-26,Deep Work Session,0,Thursday
+44,2026-03-26,Reading,0,Thursday
+45,2026-03-26,Project Work,0,Thursday
+46,2026-03-26,Drink 3L Water,1,Thursday
+47,2026-03-26,No Social Media,0,Thursday
+48,2026-03-26,Sleep Before 12,0,Thursday
+49,2026-03-26,Family Time,0,Thursday
+50,2026-03-26,Study Atleast 2 Hours,1,Thursday
+51,2026-03-27,Wake Up Early,1,Friday
+52,2026-03-27,Morning Workout,1,Friday
+53,2026-03-27,Deep Work Session,1,Friday
+54,2026-03-27,Reading,1,Friday
+55,2026-03-27,Project Work,0,Friday
+56,2026-03-27,Drink 3L Water,1,Friday
+57,2026-03-27,No Social Media,1,Friday
+58,2026-03-27,Sleep Before 12,1,Friday
+59,2026-03-27,Family Time,1,Friday
+60,2026-03-27,Study Atleast 2 Hours,0,Friday
+61,2026-03-28,Wake Up Early,1,Saturday
+62,2026-03-28,Morning Workout,0,Saturday
+63,2026-03-28,Deep Work Session,0,Saturday
+64,2026-03-28,Reading,0,Saturday
+65,2026-03-28,Project Work,1,Saturday
+66,2026-03-28,Drink 3L Water,0,Saturday
+67,2026-03-28,No Social Media,0,Saturday
+68,2026-03-28,Sleep Before 12,0,Saturday
+69,2026-03-28,Family Time,0,Saturday
+70,2026-03-28,Study Atleast 2 Hours,1,Saturday
